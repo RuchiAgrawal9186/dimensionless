@@ -4,7 +4,8 @@ import AdminDashboard from './pages/AdminDashboard';
 function App() {
   return (
     <div className="App">
-      <AdminDashboard></AdminDashboard>
+      {/* create main page */}
+      <AdminDashboard></AdminDashboard> 
     </div>
   );
 }
